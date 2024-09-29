@@ -10,8 +10,7 @@ character = undefined;
 playerList[0] = {
 	steamID			: steamID,
 	steamName		: steamName,
-	lobbyMemberID	: 0,
 	character		: undefined,
-	startPos		: scrGetSpawnPoint(0)
+	startPos		: grab_spawn_point(0)
 	
 }

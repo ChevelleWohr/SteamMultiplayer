@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"scrGetSpawnPoint",
+  "%Name":"PlayerManagement",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"scrGetSpawnPoint",
+  "name":"PlayerManagement",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",
